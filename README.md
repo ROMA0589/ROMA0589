@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I love Chill out music, Punk(Sex Pistol :) and etc!
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=java,python,sql,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,nextjs,sql,js,html,css)](https://skillicons.dev)
 
 <!---
 ROMA0589/ROMA0589 is a ✨ special ✨ repository because its `README.md` (this file) appears in your GitHub profile.
